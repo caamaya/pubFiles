@@ -1,0 +1,12 @@
+#numero de trabajos n=
+3
+#número de máquinas m=
+4
+#rutas o sigma{j in J, o in 1..m}:
+1 2 3 4
+2 1 4 3
+1 2 4 3
+#tiempos de proceso p{j in J, i in M}:
+10 8 4 0
+3 8 6 5
+4 7 0 3
